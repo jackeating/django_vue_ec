@@ -8,4 +8,5 @@ DjangoとVue.jsの連携確認
 https://youtu.be/Yg5zkd9nm6w
 
 ## Vue.js buid command
+npm install  
 npm run serve
